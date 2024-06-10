@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shaun-46/Todo-list/static/css/main.0d5b1fd2.css",
+    "main.js": "/shaun-46/Todo-list/static/js/main.2b9acfdb.js",
+    "index.html": "/shaun-46/Todo-list/index.html",
+    "main.0d5b1fd2.css.map": "/shaun-46/Todo-list/static/css/main.0d5b1fd2.css.map",
+    "main.2b9acfdb.js.map": "/shaun-46/Todo-list/static/js/main.2b9acfdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d5b1fd2.css",
+    "static/js/main.2b9acfdb.js"
+  ]
+}
